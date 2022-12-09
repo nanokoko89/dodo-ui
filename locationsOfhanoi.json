@@ -1,5 +1,975 @@
 [
   {
+    "address": "Quận Ba Đình",
+    "lat": 21.03398199000003,
+    "lng": 105.81452464100005
+  },
+  {
+    "address": "Quận Ba Vì",
+    "lat": 21.19838927400008,
+    "lng": 105.42421153800007
+  },
+  { "address": "Quận Bắc Từ Liêm", "lat": 21.0730201, "lng": 105.7703287 },
+  {
+    "address": "Quận Cầu Giấy",
+    "lat": 21.031028545000026,
+    "lng": 105.80112181800007
+  },
+  {
+    "address": "Quận Chương Mỹ",
+    "lat": 20.92423504800007,
+    "lng": 105.70184788200004
+  },
+  {
+    "address": "Quận Đan Phượng",
+    "lat": 21.08296888900003,
+    "lng": 105.67236864800009
+  },
+  {
+    "address": "Quận Đông Anh",
+    "lat": 21.13981633800006,
+    "lng": 105.84928961600008
+  },
+  {
+    "address": "Quận Đống Đa",
+    "lat": 21.019302192000055,
+    "lng": 105.83091482900005
+  },
+  {
+    "address": "Quận Gia Lâm",
+    "lat": 21.019601046000048,
+    "lng": 105.93685682900008
+  },
+  {
+    "address": "Quận Hà Đông",
+    "lat": 20.971334803000047,
+    "lng": 105.77875462800006
+  },
+  {
+    "address": "Quận Hai Bà Trưng",
+    "lat": 21.010176768000065,
+    "lng": 105.84972309300008
+  },
+  { "address": "Quận Hoài Đức", "lat": 21.0243168, "lng": 105.6988892 },
+  {
+    "address": "Quận Hoàn Kiếm",
+    "lat": 21.028530775000036,
+    "lng": 105.85077074900005
+  },
+  {
+    "address": "Quận Hoàng Mai",
+    "lat": 20.97535979500003,
+    "lng": 105.84435436900009
+  },
+  {
+    "address": "Quận Long Biên",
+    "lat": 21.062644799000054,
+    "lng": 105.90181166900004
+  },
+  {
+    "address": "Quận Mê Linh",
+    "lat": 21.179239988000063,
+    "lng": 105.72866672700007
+  },
+  {
+    "address": "Quận Mỹ Đức",
+    "lat": 20.686470067000073,
+    "lng": 105.74482722500005
+  },
+  { "address": "Quận Nam Từ Liêm", "lat": 21.0034608, "lng": 105.7703287 },
+  {
+    "address": "Quận Phú Xuyên",
+    "lat": 20.74526462500006,
+    "lng": 105.91370721600003
+  },
+  {
+    "address": "Quận Phúc Thọ",
+    "lat": 21.104112272000066,
+    "lng": 105.54573475300003
+  },
+  {
+    "address": "Quận Quốc Oai",
+    "lat": 20.99028396700004,
+    "lng": 105.64072192400005
+  },
+  {
+    "address": "Quận Sóc Sơn",
+    "lat": 21.258095054000023,
+    "lng": 105.84884806500008
+  },
+  {
+    "address": "Quận xã Sơn Tây",
+    "lat": 21.141570947000048,
+    "lng": 105.50719483600005
+  },
+  {
+    "address": "Quận Thanh Trì",
+    "lat": 20.9712048,
+    "lng": 105.8010533
+  },
+  {
+    "address": "Quận Thanh Xuân",
+    "lat": 20.99477765200004,
+    "lng": 105.79978623600005
+  },
+  { "address": "Quận Thường Tín", "lat": 20.8715715, "lng": 105.8627913 },
+  {
+    "address": "Quận Tây Hồ",
+    "lat": 21.068738319000033,
+    "lng": 105.81121333000004
+  },
+  {
+    "address": "Quận Thanh Oai",
+    "lat": 20.852510752000057,
+    "lng": 105.76922735100004
+  },
+  {
+    "address": "Quận Thạch Thất",
+    "lat": 21.056068625000023,
+    "lng": 105.57803238500009
+  },
+  {
+    "address": "Quận Ứng Hòa",
+    "lat": 20.735608717000048,
+    "lng": 105.77179996000007
+  },
+
+  {
+    "address": "Phường Điện Biên, Quận Ba Đình",
+    "lat": 21.0331477,
+    "lng": 105.8393044
+  },
+  {
+    "address": "Phường Đội Cấn, Quận Ba Đình",
+    "lat": 21.0353362,
+    "lng": 105.8238927
+  },
+  {
+    "address": "Phường Giảng Võ, Quận Ba Đình",
+    "lat": 21.0255664,
+    "lng": 105.8223404
+  },
+  {
+    "address": "Phường Kim Mã, Quận Ba Đình",
+    "lat": 21.0316443,
+    "lng": 105.8246266
+  },
+  {
+    "address": "Phường Liễu Giai, Quận Ba Đình",
+    "lat": 21.0379972,
+    "lng": 105.8187558
+  },
+  {
+    "address": "Phường Ngọc Hà, Quận Ba Đình",
+    "lat": 21.0378157,
+    "lng": 105.8282959
+  },
+  {
+    "address": "Phường Ngọc Khánh, Quận Ba Đình",
+    "lat": 21.0301393,
+    "lng": 105.8099499
+  },
+  {
+    "address": "Phường Nguyễn Trung Trực, Quận Ba Đình",
+    "lat": 21.0424761,
+    "lng": 105.8480063
+  },
+  {
+    "address": "Phường Phúc Xá, Quận Ba Đình",
+    "lat": 21.0467979,
+    "lng": 105.8481116
+  },
+  {
+    "address": "Phường Quán Thánh, Quận Ba Đình",
+    "lat": 21.0389429,
+    "lng": 105.8393044
+  },
+  {
+    "address": "Phường Thành Công, Quận Ba Đình",
+    "lat": 21.020889,
+    "lng": 105.8158204
+  },
+  {
+    "address": "Phường Trúc Bạch, Quận Ba Đình",
+    "lat": 21.0452531,
+    "lng": 105.8415062
+  },
+  {
+    "address": "Phường Vĩnh Phúc, Quận Ba Đình",
+    "lat": 21.0417308,
+    "lng": 105.8099499
+  },
+  {
+    "address": "Phường Cổ Nhuế 1, Quận Bắc Từ Liêm",
+    "lat": 21.0506076,
+    "lng": 105.7909724
+  },
+  {
+    "address": "Phường Cổ Nhuế 2, Quận Bắc Từ Liêm",
+    "lat": 21.0660875,
+    "lng": 105.7639698
+  },
+  {
+    "address": "Phường Đông Ngạc, Quận Bắc Từ Liêm",
+    "lat": 21.0919168,
+    "lng": 105.7850022
+  },
+  {
+    "address": "Phường Đức Thắng, Quận Bắc Từ Liêm",
+    "lat": 21.0798488,
+    "lng": 105.7747307
+  },
+  {
+    "address": "Phường Liên Mạc, Quận Bắc Từ Liêm",
+    "lat": 21.0831053,
+    "lng": 105.7556564
+  },
+  {
+    "address": "Phường Minh Khai, Quận Bắc Từ Liêm",
+    "lat": 21.0524601,
+    "lng": 105.7411961
+  },
+  {
+    "address": "Phường Phú Diễn, Quận Bắc Từ Liêm",
+    "lat": 21.047768,
+    "lng": 105.7615252
+  },
+  {
+    "address": "Phường Phúc Diễn, Quận Bắc Từ Liêm",
+    "lat": 21.04729,
+    "lng": 105.7512549
+  },
+  {
+    "address": "Phường Tây Tựu, Quận Bắc Từ Liêm",
+    "lat": 21.0679338,
+    "lng": 105.7321831
+  },
+  {
+    "address": "Phường Thượng Cát, Quận Bắc Từ Liêm",
+    "lat": 21.0963665,
+    "lng": 105.7380511
+  },
+  {
+    "address": "Phường Thụy Phương, Quận Bắc Từ Liêm",
+    "lat": 21.0833035,
+    "lng": 105.7688614
+  },
+  {
+    "address": "Phường Xuân Đỉnh, Quận Bắc Từ Liêm",
+    "lat": 21.0739704,
+    "lng": 105.790872
+  },
+  {
+    "address": "Phường Xuân Tảo, Quận Bắc Từ Liêm",
+    "lat": 21.0634093,
+    "lng": 105.7952744
+  },
+  {
+    "address": "Phường Dịch Vọng, Quận Cầu Giấy",
+    "lat": 21.0347067,
+    "lng": 105.7923394
+  },
+  {
+    "address": "Phường Dịch Vọng Hậu, Quận Cầu Giấy",
+    "lat": 21.0339527,
+    "lng": 105.7850022
+  },
+  {
+    "address": "Phường Mai Dịch, Quận Cầu Giấy",
+    "lat": 21.0418225,
+    "lng": 105.7732365
+  },
+  {
+    "address": "Phường Nghĩa Đô, Quận Cầu Giấy",
+    "lat": 21.0438759,
+    "lng": 105.802612
+  },
+  {
+    "address": "Phường Nghĩa Tân, Quận Cầu Giấy",
+    "lat": 21.0450408,
+    "lng": 105.7921796
+  },
+  {
+    "address": "Phường Quan Hoa, Quận Cầu Giấy",
+    "lat": 21.0367702,
+    "lng": 105.8011445
+  },
+  {
+    "address": "Phường Trung Hòa, Quận Cầu Giấy",
+    "lat": 21.0101531,
+    "lng": 105.7988345
+  },
+  {
+    "address": "Phường Yên Hòa, Quận Cầu Giấy",
+    "lat": 21.0218044,
+    "lng": 105.790872
+  },
+  {
+    "address": "Phường Cát Linh, Quận Đống Đa",
+    "lat": 21.0289833,
+    "lng": 105.8297637
+  },
+  {
+    "address": "Phường Hàng Bột, Quận Đống Đa",
+    "lat": 21.0217391,
+    "lng": 105.8297637
+  },
+  {
+    "address": "Phường Khâm Thiên, Quận Đống Đa",
+    "lat": 21.019454,
+    "lng": 105.8385705
+  },
+  {
+    "address": "Phường Khương Thượng, Quận Đống Đa",
+    "lat": 21.0030438,
+    "lng": 105.8282959
+  },
+  {
+    "address": "Phường Kim Liên, Quận Đống Đa",
+    "lat": 21.0066938,
+    "lng": 105.8356348
+  },
+  {
+    "address": "Phường Láng Hạ, Quận Đống Đa",
+    "lat": 21.0153717,
+    "lng": 105.8128851
+  },
+  {
+    "address": "Phường Láng Thượng, Quận Đống Đa",
+    "lat": 21.0220022,
+    "lng": 105.8040796
+  },
+  {
+    "address": "Phường Nam Đồng, Quận Đống Đa",
+    "lat": 21.0143557,
+    "lng": 105.8312314
+  },
+  {
+    "address": "Phường Ngã Tư Sở, Quận Đống Đa",
+    "lat": 21.004722,
+    "lng": 105.8220581
+  },
+  {
+    "address": "Phường Ô Chợ Dừa, Quận Đống Đa",
+    "lat": 21.0200535,
+    "lng": 105.8246266
+  },
+  {
+    "address": "Phường Phương Liên, Quận Đống Đa",
+    "lat": 21.0123495,
+    "lng": 105.8371026
+  },
+  {
+    "address": "Phường Phương Mai, Quận Đống Đa",
+    "lat": 21.0038033,
+    "lng": 105.8374885
+  },
+  {
+    "address": "Phường Quang Trung, Quận Đống Đa",
+    "lat": 21.0120152,
+    "lng": 105.8253604
+  },
+  {
+    "address": "Phường Quốc Tử Giám, Quận Đống Đa",
+    "lat": 21.0272556,
+    "lng": 105.8326992
+  },
+  {
+    "address": "Phường Thịnh Quang, Quận Đống Đa",
+    "lat": 21.0083647,
+    "lng": 105.8180219
+  },
+  {
+    "address": "Phường Thổ Quan, Quận Đống Đa",
+    "lat": 21.0169746,
+    "lng": 105.834167
+  },
+  {
+    "address": "Phường Trung Liệt, Quận Đống Đa",
+    "lat": 21.0111284,
+    "lng": 105.8204265
+  },
+  {
+    "address": "Phường Trung Tự, Quận Đống Đa",
+    "lat": 21.0042141,
+    "lng": 105.8312314
+  },
+  {
+    "address": "Phường Văn Chương, Quận Đống Đa",
+    "lat": 21.022491,
+    "lng": 105.8371026
+  },
+  {
+    "address": "Phường Trung Phụng, Quận Đống Đa",
+    "lat": 21.0151077,
+    "lng": 105.8385705
+  },
+  {
+    "address": "Phường Văn Miếu, Quận Đống Đa",
+    "lat": 21.0265584,
+    "lng": 105.8400383
+  },
+  {
+    "address": "Phường Biên Giang, Quận Hà Đông",
+    "lat": 20.9319126,
+    "lng": 105.7239342
+  },
+  {
+    "address": "Phường Đồng Mai, Quận Hà Đông",
+    "lat": 20.9308715,
+    "lng": 105.7409852
+  },
+  {
+    "address": "Phường Dương Nội, Quận Hà Đông",
+    "lat": 20.9725963,
+    "lng": 105.7413538
+  },
+  {
+    "address": "Phường Hà Cầu, Quận Hà Đông",
+    "lat": 20.9636429,
+    "lng": 105.7776653
+  },
+  {
+    "address": "Phường Kiến Hưng, Quận Hà Đông",
+    "lat": 20.9591355,
+    "lng": 105.7825729
+  },
+  {
+    "address": "Phường La Khê, Quận Hà Đông",
+    "lat": 20.9724114,
+    "lng": 105.7615252
+  },
+  {
+    "address": "Phường Mỗ Lao, Quận Hà Đông",
+    "lat": 20.9833749,
+    "lng": 105.7835348
+  },
+  {
+    "address": "Phường Nguyễn Trãi, Quận Hà Đông",
+    "lat": 20.9699557,
+    "lng": 105.7798664
+  },
+  {
+    "address": "Phường Phú La, Quận Hà Đông",
+    "lat": 20.9560561,
+    "lng": 105.7659269
+  },
+  {
+    "address": "Phường Phú Lãm, Quận Hà Đông",
+    "lat": 20.9426712,
+    "lng": 105.7541892
+  },
+  {
+    "address": "Phường Phú Lương, Quận Hà Đông",
+    "lat": 20.93708,
+    "lng": 105.7673942
+  },
+  {
+    "address": "Phường Phúc La, Quận Hà Đông",
+    "lat": 20.9654323,
+    "lng": 105.7894045
+  },
+  {
+    "address": "Phường Quang Trung, Quận Hà Đông",
+    "lat": 20.9652675,
+    "lng": 105.7681278
+  },
+  {
+    "address": "Phường Vạn Phúc, Quận Hà Đông",
+    "lat": 20.9786876,
+    "lng": 105.771796
+  },
+  {
+    "address": "Phường Văn Quán, Quận Hà Đông",
+    "lat": 20.9796446,
+    "lng": 105.7923394
+  },
+  {
+    "address": "Phường Yên Nghĩa, Quận Hà Đông",
+    "lat": 20.9540586,
+    "lng": 105.7409852
+  },
+  {
+    "address": "Phường Yết Kiêu, Quận Hà Đông",
+    "lat": 20.97458,
+    "lng": 105.7769317
+  },
+  {
+    "address": "Phường Bạch Đằng, Quận Hai Bà Trưng",
+    "lat": 21.0132507,
+    "lng": 105.8657274
+  },
+  {
+    "address": "Phường Bách Khoa, Quận Hai Bà Trưng",
+    "lat": 21.0005799,
+    "lng": 105.8470522
+  },
+  {
+    "address": "Phường Bạch Mai, Quận Hai Bà Trưng",
+    "lat": 21.0008143,
+    "lng": 105.8517814
+  },
+  {
+    "address": "Phường Bùi Thị Xuân, Quận Hai Bà Trưng",
+    "lat": 21.014855,
+    "lng": 105.8504718
+  },
+  {
+    "address": "Phường Cầu Dền, Quận Hai Bà Trưng",
+    "lat": 21.0067485,
+    "lng": 105.8503135
+  },
+  {
+    "address": "Phường Đống Mác, Quận Hai Bà Trưng",
+    "lat": 21.0110533,
+    "lng": 105.8606382
+  },
+  {
+    "address": "Phường Đồng Nhân, Quận Hai Bà Trưng",
+    "lat": 21.0116579,
+    "lng": 105.8558183
+  },
+  {
+    "address": "Phường Đồng Tâm, Quận Hai Bà Trưng",
+    "lat": 20.9967604,
+    "lng": 105.8432719
+  },
+  {
+    "address": "Phường Lê Đại Hành, Quận Hai Bà Trưng",
+    "lat": 21.0106552,
+    "lng": 105.8490846
+  },
+  {
+    "address": "Phường Minh Khai, Quận Hai Bà Trưng",
+    "lat": 20.9959104,
+    "lng": 105.8576533
+  },
+  {
+    "address": "Phường Ngô Thì Nhậm, Quận Hai Bà Trưng",
+    "lat": 21.0166103,
+    "lng": 105.8532494
+  },
+  {
+    "address": "Phường Phạm Đình Hổ, Quận Hai Bà Trưng",
+    "lat": 21.0161916,
+    "lng": 105.8576533
+  },
+  {
+    "address": "Phường Quỳnh Lôi, Quận Hai Bà Trưng",
+    "lat": 21.0003958,
+    "lng": 105.8561853
+  },
+  {
+    "address": "Phường Quỳnh Mai, Quận Hai Bà Trưng",
+    "lat": 20.9999773,
+    "lng": 105.8605893
+  },
+  {
+    "address": "Phường Thanh Lương, Quận Hai Bà Trưng",
+    "lat": 21.0068975,
+    "lng": 105.8715997
+  },
+  {
+    "address": "Phường Thanh Nhàn, Quận Hai Bà Trưng",
+    "lat": 21.0053964,
+    "lng": 105.8569193
+  },
+  {
+    "address": "Phường Trương Định, Quận Hai Bà Trưng",
+    "lat": 20.9965567,
+    "lng": 105.8468125
+  },
+  {
+    "address": "Phường Vĩnh Tuy, Quận Hai Bà Trưng",
+    "lat": 20.9984853,
+    "lng": 105.8686635
+  },
+  {
+    "address": "Phường Nguyễn Du, Quận Hai Bà Trưng",
+    "lat": 21.0187567,
+    "lng": 105.8459098
+  },
+  {
+    "address": "Phường Phố Huế, Quận Hai Bà Trưng",
+    "lat": 21.0115168,
+    "lng": 105.8533481
+  },
+  {
+    "address": "Phường Chương Dương Độ, Quận Hoàn Kiếm",
+    "lat": 21.0303845,
+    "lng": 105.8608981
+  },
+  {
+    "address": "Phường Cửa Đông, Quận Hoàn Kiếm",
+    "lat": 21.0329168,
+    "lng": 105.8455428
+  },
+  {
+    "address": "Phường Cửa Nam, Quận Hoàn Kiếm",
+    "lat": 21.0252277,
+    "lng": 105.8426071
+  },
+  {
+    "address": "Phường Đồng Xuân, Quận Hoàn Kiếm",
+    "lat": 21.0396362,
+    "lng": 105.8489144
+  },
+  {
+    "address": "Phường Hàng Bạc, Quận Hoàn Kiếm",
+    "lat": 21.0329432,
+    "lng": 105.8528824
+  },
+  {
+    "address": "Phường Hàng Bài, Quận Hoàn Kiếm",
+    "lat": 21.021096,
+    "lng": 105.8517814
+  },
+  {
+    "address": "Phường Hàng Bồ, Quận Hoàn Kiếm",
+    "lat": 21.0348806,
+    "lng": 105.8477447
+  },
+  {
+    "address": "Phường Hàng Bông, Quận Hoàn Kiếm",
+    "lat": 21.0299548,
+    "lng": 105.8464694
+  },
+  {
+    "address": "Phường Hàng Buồm, Quận Hoàn Kiếm",
+    "lat": 21.0355832,
+    "lng": 105.8517814
+  },
+  {
+    "address": "Phường Hàng Đào, Quận Hoàn Kiếm",
+    "lat": 21.0346712,
+    "lng": 105.8499465
+  },
+  {
+    "address": "Phường Hàng Gai, Quận Hoàn Kiếm",
+    "lat": 21.0319133,
+    "lng": 105.8484786
+  },
+  {
+    "address": "Phường Hàng Mã, Quận Hoàn Kiếm",
+    "lat": 21.0375904,
+    "lng": 105.8459098
+  },
+  {
+    "address": "Phường Hàng Trống, Quận Hoàn Kiếm",
+    "lat": 21.0284792,
+    "lng": 105.8503135
+  },
+  {
+    "address": "Phường Lý Thái Tổ, Quận Hoàn Kiếm",
+    "lat": 21.0309577,
+    "lng": 105.8547173
+  },
+  {
+    "address": "Phường Phan Chu Trinh, Quận Hoàn Kiếm",
+    "lat": 21.0186485,
+    "lng": 105.8553825
+  },
+  {
+    "address": "Phường Phúc Tân, Quận Hoàn Kiếm",
+    "lat": 21.0372674,
+    "lng": 105.8569193
+  },
+  {
+    "address": "Phường Trần Hưng Đạo, Quận Hoàn Kiếm",
+    "lat": 21.0227015,
+    "lng": 105.8469788
+  },
+  {
+    "address": "Phường Tràng Tiền, Quận Hoàn Kiếm",
+    "lat": 21.0251629,
+    "lng": 105.8547173
+  },
+  {
+    "address": "Phường Đại Kim, Quận Hoàng Mai",
+    "lat": 20.9739692,
+    "lng": 105.8216911
+  },
+  {
+    "address": "Phường Định Công, Quận Hoàng Mai",
+    "lat": 20.9894672,
+    "lng": 105.8324116
+  },
+  {
+    "address": "Phường Hoàng Liệt, Quận Hoàng Mai",
+    "lat": 20.9625316,
+    "lng": 105.8399127
+  },
+  {
+    "address": "Phường Hoàng Văn Thụ, Quận Hoàng Mai",
+    "lat": 20.9848364,
+    "lng": 105.8598553
+  },
+  {
+    "address": "Phường Lĩnh Nam, Quận Hoàng Mai",
+    "lat": 20.9770005,
+    "lng": 105.896559
+  },
+  {
+    "address": "Phường Mai Động, Quận Hoàng Mai",
+    "lat": 20.9908669,
+    "lng": 105.8649934
+  },
+  {
+    "address": "Phường Tân Mai, Quận Hoàng Mai",
+    "lat": 20.9835994,
+    "lng": 105.8503027
+  },
+  {
+    "address": "Phường Thanh Trì, Quận Hoàng Mai",
+    "lat": 20.994941,
+    "lng": 105.8906859
+  },
+  {
+    "address": "Phường Trần Phú, Quận Hoàng Mai",
+    "lat": 20.9723243,
+    "lng": 105.884813
+  },
+  {
+    "address": "Phường Tương Mai, Quận Hoàng Mai",
+    "lat": 20.9885702,
+    "lng": 105.8510475
+  },
+  {
+    "address": "Phường Giang Biên, Quận Long Biên",
+    "lat": 21.0674567,
+    "lng": 105.9200531
+  },
+  {
+    "address": "Phường Phúc Đồng, Quận Long Biên",
+    "lat": 21.0420823,
+    "lng": 105.9044741
+  },
+  {
+    "address": "Phường Giáp Bát, Quận Hoàng Mai",
+    "lat": 20.98834,
+    "lng": 105.842529
+  },
+  {
+    "address": "Phường Vĩnh Hưng, Quận Hoàng Mai",
+    "lat": 20.988908,
+    "lng": 105.8777537
+  },
+  {
+    "address": "Phường Bồ Đề, Quận Long Biên",
+    "lat": 21.0382069,
+    "lng": 105.8711081
+  },
+  {
+    "address": "Phường Thịnh Liệt, Quận Hoàng Mai",
+    "lat": 20.9751142,
+    "lng": 105.8554513
+  },
+  {
+    "address": "Phường Yên Sở, Quận Hoàng Mai",
+    "lat": 20.9618527,
+    "lng": 105.8730678
+  },
+  {
+    "address": "Phường Cự Khối, Quận Long Biên",
+    "lat": 21.0059693,
+    "lng": 105.896559
+  },
+  {
+    "address": "Phường Đức Giang, Quận Long Biên",
+    "lat": 21.0701691,
+    "lng": 105.9068373
+  },
+  {
+    "address": "Phường Long Biên, Quận Long Biên",
+    "lat": 21.0186765,
+    "lng": 105.884813
+  },
+  {
+    "address": "Phường Gia Thụy, Quận Long Biên",
+    "lat": 21.048956,
+    "lng": 105.8862812
+  },
+  {
+    "address": "Phường Ngọc Thụy, Quận Long Biên",
+    "lat": 21.0611536,
+    "lng": 105.8630883
+  },
+  {
+    "address": "Phường Sài Đồng, Quận Long Biên",
+    "lat": 21.0332116,
+    "lng": 105.9095352
+  },
+  {
+    "address": "Phường Phúc Lợi, Quận Long Biên",
+    "lat": 21.0437208,
+    "lng": 105.9259271
+  },
+  {
+    "address": "Phường Ngọc Lâm, Quận Long Biên",
+    "lat": 21.0448412,
+    "lng": 105.8686635
+  },
+  {
+    "address": "Phường Thạch Bàn, Quận Long Biên",
+    "lat": 21.0216695,
+    "lng": 105.9141793
+  },
+  {
+    "address": "Phường Thượng Thanh, Quận Long Biên",
+    "lat": 21.0655013,
+    "lng": 105.8883137
+  },
+  {
+    "address": "Phường Việt Hưng, Quận Long Biên",
+    "lat": 21.0575538,
+    "lng": 105.9024322
+  },
+  {
+    "address": "Phường Đại Mỗ, Quận Nam Từ Liêm",
+    "lat": 20.986152,
+    "lng": 105.7678891
+  },
+  {
+    "address": "Phường Mễ Trì, Quận Nam Từ Liêm",
+    "lat": 21.0055267,
+    "lng": 105.7791327
+  },
+  {
+    "address": "Phường Mỹ Đình 1, Quận Nam Từ Liêm",
+    "lat": 21.0221606,
+    "lng": 105.771796
+  },
+  {
+    "address": "Phường Mỹ Đình 2, Quận Nam Từ Liêm",
+    "lat": 21.0279571,
+    "lng": 105.771796
+  },
+  {
+    "address": "Phường Phú Đô, Quận Nam Từ Liêm",
+    "lat": 21.0124328,
+    "lng": 105.7673942
+  },
+  {
+    "address": "Phường Phương Canh, Quận Nam Từ Liêm",
+    "lat": 21.03427044400007,
+    "lng": 105.74409544100007
+  },
+  {
+    "address": "Phường Tây Mỗ, Quận Nam Từ Liêm",
+    "lat": 21.0088528,
+    "lng": 105.7439194
+  },
+  {
+    "address": "Thị trấn Cầu Diễn, Phường Cầu Diễn, Quận Nam Từ Liêm",
+    "lat": 21.0403832,
+    "lng": 105.7629924
+  },
+  {
+    "address": "Phường Trung Văn, Quận Nam Từ Liêm",
+    "lat": 20.9934004,
+    "lng": 105.7778148
+  },
+  {
+    "address": "Phường Xuân Phương, Quận Nam Từ Liêm",
+    "lat": 21.0378383,
+    "lng": 105.7439194
+  },
+  {
+    "address": "Phường Bưởi, Quận Tây Hồ",
+    "lat": 21.0530438,
+    "lng": 105.8128851
+  },
+  {
+    "address": "Phường Nhật Tân, Quận Tây Hồ",
+    "lat": 21.0764202,
+    "lng": 105.8260943
+  },
+  {
+    "address": "Phường Phú Thượng, Quận Tây Hồ",
+    "lat": 21.0838905,
+    "lng": 105.8084823
+  },
+  {
+    "address": "Phường Quảng An, Quận Tây Hồ",
+    "lat": 21.063591,
+    "lng": 105.8260436
+  },
+  {
+    "address": "Phường Thụy Khuê, Quận Tây Hồ",
+    "lat": 21.04272,
+    "lng": 105.8241554
+  },
+  {
+    "address": "Phường Tứ Liên, Quận Tây Hồ",
+    "lat": 21.0642931,
+    "lng": 105.8340365
+  },
+  {
+    "address": "Phường Xuân La, Quận Tây Hồ",
+    "lat": 21.0596756,
+    "lng": 105.8040796
+  },
+  {
+    "address": "Phường Yên Phụ, Quận Tây Hồ",
+    "lat": 21.0534309,
+    "lng": 105.8393044
+  },
+  {
+    "address": "Phường Nhân Chính, Quận Thanh Xuân",
+    "lat": 21.0046148,
+    "lng": 105.8040796
+  },
+  {
+    "address": "Phường Phương Liệt, Quận Thanh Xuân",
+    "lat": 20.99388,
+    "lng": 105.8406576
+  },
+  {
+    "address": "Phường Thanh Xuân Bắc, Quận Thanh Xuân",
+    "lat": 20.9922555,
+    "lng": 105.8007815
+  },
+  {
+    "address": "Phường Thanh Xuân Nam, Quận Thanh Xuân",
+    "lat": 20.9864363,
+    "lng": 105.8023856
+  },
+  {
+    "address": "Phường Thanh Xuân Trung, Quận Thanh Xuân",
+    "lat": 21.0000175,
+    "lng": 105.8075304
+  },
+  {
+    "address": "Phường Thượng Đình, Quận Thanh Xuân",
+    "lat": 21.0006046,
+    "lng": 105.8158204
+  },
+  {
+    "address": "Phường Khương Mai, Quận Thanh Xuân",
+    "lat": 20.9963153,
+    "lng": 105.8304975
+  },
+  {
+    "address": "Phường Hạ Đình, Quận Thanh Xuân",
+    "lat": 20.9866719,
+    "lng": 105.8099499
+  },
+  {
+    "address": "Phường Khương Đình, Quận Thanh Xuân",
+    "lat": 20.9887356,
+    "lng": 105.8187558
+  },
+  {
+    "address": "Phường Khương Trung, Quận Thanh Xuân",
+    "lat": 20.9971504,
+    "lng": 105.8216911
+  },
+  {
+    "address": "Phường Kim Giang, Quận Thanh Xuân",
+    "lat": 20.9841512,
+    "lng": 105.813619
+  },
+  {
     "address": "Dự án 134 Quán Thánh, Phường Quán Thánh, Quận Ba Đình",
     "lat": 21.0389429,
     "lng": 105.8393044
@@ -13142,841 +14112,6 @@
     "lng": 105.8099499
   },
   {
-    "address": "Phường Điện Biên, Quận Ba Đình",
-    "lat": 21.0331477,
-    "lng": 105.8393044
-  },
-  {
-    "address": "Phường Đội Cấn, Quận Ba Đình",
-    "lat": 21.0353362,
-    "lng": 105.8238927
-  },
-  {
-    "address": "Phường Giảng Võ, Quận Ba Đình",
-    "lat": 21.0255664,
-    "lng": 105.8223404
-  },
-  {
-    "address": "Phường Kim Mã, Quận Ba Đình",
-    "lat": 21.0316443,
-    "lng": 105.8246266
-  },
-  {
-    "address": "Phường Liễu Giai, Quận Ba Đình",
-    "lat": 21.0379972,
-    "lng": 105.8187558
-  },
-  {
-    "address": "Phường Ngọc Hà, Quận Ba Đình",
-    "lat": 21.0378157,
-    "lng": 105.8282959
-  },
-  {
-    "address": "Phường Ngọc Khánh, Quận Ba Đình",
-    "lat": 21.0301393,
-    "lng": 105.8099499
-  },
-  {
-    "address": "Phường Nguyễn Trung Trực, Quận Ba Đình",
-    "lat": 21.0424761,
-    "lng": 105.8480063
-  },
-  {
-    "address": "Phường Phúc Xá, Quận Ba Đình",
-    "lat": 21.0467979,
-    "lng": 105.8481116
-  },
-  {
-    "address": "Phường Quán Thánh, Quận Ba Đình",
-    "lat": 21.0389429,
-    "lng": 105.8393044
-  },
-  {
-    "address": "Phường Thành Công, Quận Ba Đình",
-    "lat": 21.020889,
-    "lng": 105.8158204
-  },
-  {
-    "address": "Phường Trúc Bạch, Quận Ba Đình",
-    "lat": 21.0452531,
-    "lng": 105.8415062
-  },
-  {
-    "address": "Phường Vĩnh Phúc, Quận Ba Đình",
-    "lat": 21.0417308,
-    "lng": 105.8099499
-  },
-  {
-    "address": "Phường Cổ Nhuế 1, Quận Bắc Từ Liêm",
-    "lat": 21.0506076,
-    "lng": 105.7909724
-  },
-  {
-    "address": "Phường Cổ Nhuế 2, Quận Bắc Từ Liêm",
-    "lat": 21.0660875,
-    "lng": 105.7639698
-  },
-  {
-    "address": "Phường Đông Ngạc, Quận Bắc Từ Liêm",
-    "lat": 21.0919168,
-    "lng": 105.7850022
-  },
-  {
-    "address": "Phường Đức Thắng, Quận Bắc Từ Liêm",
-    "lat": 21.0798488,
-    "lng": 105.7747307
-  },
-  {
-    "address": "Phường Liên Mạc, Quận Bắc Từ Liêm",
-    "lat": 21.0831053,
-    "lng": 105.7556564
-  },
-  {
-    "address": "Phường Minh Khai, Quận Bắc Từ Liêm",
-    "lat": 21.0524601,
-    "lng": 105.7411961
-  },
-  {
-    "address": "Phường Phú Diễn, Quận Bắc Từ Liêm",
-    "lat": 21.047768,
-    "lng": 105.7615252
-  },
-  {
-    "address": "Phường Phúc Diễn, Quận Bắc Từ Liêm",
-    "lat": 21.04729,
-    "lng": 105.7512549
-  },
-  {
-    "address": "Phường Tây Tựu, Quận Bắc Từ Liêm",
-    "lat": 21.0679338,
-    "lng": 105.7321831
-  },
-  {
-    "address": "Phường Thượng Cát, Quận Bắc Từ Liêm",
-    "lat": 21.0963665,
-    "lng": 105.7380511
-  },
-  {
-    "address": "Phường Thụy Phương, Quận Bắc Từ Liêm",
-    "lat": 21.0833035,
-    "lng": 105.7688614
-  },
-  {
-    "address": "Phường Xuân Đỉnh, Quận Bắc Từ Liêm",
-    "lat": 21.0739704,
-    "lng": 105.790872
-  },
-  {
-    "address": "Phường Xuân Tảo, Quận Bắc Từ Liêm",
-    "lat": 21.0634093,
-    "lng": 105.7952744
-  },
-  {
-    "address": "Phường Dịch Vọng, Quận Cầu Giấy",
-    "lat": 21.0347067,
-    "lng": 105.7923394
-  },
-  {
-    "address": "Phường Dịch Vọng Hậu, Quận Cầu Giấy",
-    "lat": 21.0339527,
-    "lng": 105.7850022
-  },
-  {
-    "address": "Phường Mai Dịch, Quận Cầu Giấy",
-    "lat": 21.0418225,
-    "lng": 105.7732365
-  },
-  {
-    "address": "Phường Nghĩa Đô, Quận Cầu Giấy",
-    "lat": 21.0438759,
-    "lng": 105.802612
-  },
-  {
-    "address": "Phường Nghĩa Tân, Quận Cầu Giấy",
-    "lat": 21.0450408,
-    "lng": 105.7921796
-  },
-  {
-    "address": "Phường Quan Hoa, Quận Cầu Giấy",
-    "lat": 21.0367702,
-    "lng": 105.8011445
-  },
-  {
-    "address": "Phường Trung Hòa, Quận Cầu Giấy",
-    "lat": 21.0101531,
-    "lng": 105.7988345
-  },
-  {
-    "address": "Phường Yên Hòa, Quận Cầu Giấy",
-    "lat": 21.0218044,
-    "lng": 105.790872
-  },
-  {
-    "address": "Phường Cát Linh, Quận Đống Đa",
-    "lat": 21.0289833,
-    "lng": 105.8297637
-  },
-  {
-    "address": "Phường Hàng Bột, Quận Đống Đa",
-    "lat": 21.0217391,
-    "lng": 105.8297637
-  },
-  {
-    "address": "Phường Khâm Thiên, Quận Đống Đa",
-    "lat": 21.019454,
-    "lng": 105.8385705
-  },
-  {
-    "address": "Phường Khương Thượng, Quận Đống Đa",
-    "lat": 21.0030438,
-    "lng": 105.8282959
-  },
-  {
-    "address": "Phường Kim Liên, Quận Đống Đa",
-    "lat": 21.0066938,
-    "lng": 105.8356348
-  },
-  {
-    "address": "Phường Láng Hạ, Quận Đống Đa",
-    "lat": 21.0153717,
-    "lng": 105.8128851
-  },
-  {
-    "address": "Phường Láng Thượng, Quận Đống Đa",
-    "lat": 21.0220022,
-    "lng": 105.8040796
-  },
-  {
-    "address": "Phường Nam Đồng, Quận Đống Đa",
-    "lat": 21.0143557,
-    "lng": 105.8312314
-  },
-  {
-    "address": "Phường Ngã Tư Sở, Quận Đống Đa",
-    "lat": 21.004722,
-    "lng": 105.8220581
-  },
-  {
-    "address": "Phường Ô Chợ Dừa, Quận Đống Đa",
-    "lat": 21.0200535,
-    "lng": 105.8246266
-  },
-  {
-    "address": "Phường Phương Liên, Quận Đống Đa",
-    "lat": 21.0123495,
-    "lng": 105.8371026
-  },
-  {
-    "address": "Phường Phương Mai, Quận Đống Đa",
-    "lat": 21.0038033,
-    "lng": 105.8374885
-  },
-  {
-    "address": "Phường Quang Trung, Quận Đống Đa",
-    "lat": 21.0120152,
-    "lng": 105.8253604
-  },
-  {
-    "address": "Phường Quốc Tử Giám, Quận Đống Đa",
-    "lat": 21.0272556,
-    "lng": 105.8326992
-  },
-  {
-    "address": "Phường Thịnh Quang, Quận Đống Đa",
-    "lat": 21.0083647,
-    "lng": 105.8180219
-  },
-  {
-    "address": "Phường Thổ Quan, Quận Đống Đa",
-    "lat": 21.0169746,
-    "lng": 105.834167
-  },
-  {
-    "address": "Phường Trung Liệt, Quận Đống Đa",
-    "lat": 21.0111284,
-    "lng": 105.8204265
-  },
-  {
-    "address": "Phường Trung Tự, Quận Đống Đa",
-    "lat": 21.0042141,
-    "lng": 105.8312314
-  },
-  {
-    "address": "Phường Văn Chương, Quận Đống Đa",
-    "lat": 21.022491,
-    "lng": 105.8371026
-  },
-  {
-    "address": "Phường Trung Phụng, Quận Đống Đa",
-    "lat": 21.0151077,
-    "lng": 105.8385705
-  },
-  {
-    "address": "Phường Văn Miếu, Quận Đống Đa",
-    "lat": 21.0265584,
-    "lng": 105.8400383
-  },
-  {
-    "address": "Phường Biên Giang, Quận Hà Đông",
-    "lat": 20.9319126,
-    "lng": 105.7239342
-  },
-  {
-    "address": "Phường Đồng Mai, Quận Hà Đông",
-    "lat": 20.9308715,
-    "lng": 105.7409852
-  },
-  {
-    "address": "Phường Dương Nội, Quận Hà Đông",
-    "lat": 20.9725963,
-    "lng": 105.7413538
-  },
-  {
-    "address": "Phường Hà Cầu, Quận Hà Đông",
-    "lat": 20.9636429,
-    "lng": 105.7776653
-  },
-  {
-    "address": "Phường Kiến Hưng, Quận Hà Đông",
-    "lat": 20.9591355,
-    "lng": 105.7825729
-  },
-  {
-    "address": "Phường La Khê, Quận Hà Đông",
-    "lat": 20.9724114,
-    "lng": 105.7615252
-  },
-  {
-    "address": "Phường Mỗ Lao, Quận Hà Đông",
-    "lat": 20.9833749,
-    "lng": 105.7835348
-  },
-  {
-    "address": "Phường Nguyễn Trãi, Quận Hà Đông",
-    "lat": 20.9699557,
-    "lng": 105.7798664
-  },
-  {
-    "address": "Phường Phú La, Quận Hà Đông",
-    "lat": 20.9560561,
-    "lng": 105.7659269
-  },
-  {
-    "address": "Phường Phú Lãm, Quận Hà Đông",
-    "lat": 20.9426712,
-    "lng": 105.7541892
-  },
-  {
-    "address": "Phường Phú Lương, Quận Hà Đông",
-    "lat": 20.93708,
-    "lng": 105.7673942
-  },
-  {
-    "address": "Phường Phúc La, Quận Hà Đông",
-    "lat": 20.9654323,
-    "lng": 105.7894045
-  },
-  {
-    "address": "Phường Quang Trung, Quận Hà Đông",
-    "lat": 20.9652675,
-    "lng": 105.7681278
-  },
-  {
-    "address": "Phường Vạn Phúc, Quận Hà Đông",
-    "lat": 20.9786876,
-    "lng": 105.771796
-  },
-  {
-    "address": "Phường Văn Quán, Quận Hà Đông",
-    "lat": 20.9796446,
-    "lng": 105.7923394
-  },
-  {
-    "address": "Phường Yên Nghĩa, Quận Hà Đông",
-    "lat": 20.9540586,
-    "lng": 105.7409852
-  },
-  {
-    "address": "Phường Yết Kiêu, Quận Hà Đông",
-    "lat": 20.97458,
-    "lng": 105.7769317
-  },
-  {
-    "address": "Phường Bạch Đằng, Quận Hai Bà Trưng",
-    "lat": 21.0132507,
-    "lng": 105.8657274
-  },
-  {
-    "address": "Phường Bách Khoa, Quận Hai Bà Trưng",
-    "lat": 21.0005799,
-    "lng": 105.8470522
-  },
-  {
-    "address": "Phường Bạch Mai, Quận Hai Bà Trưng",
-    "lat": 21.0008143,
-    "lng": 105.8517814
-  },
-  {
-    "address": "Phường Bùi Thị Xuân, Quận Hai Bà Trưng",
-    "lat": 21.014855,
-    "lng": 105.8504718
-  },
-  {
-    "address": "Phường Cầu Dền, Quận Hai Bà Trưng",
-    "lat": 21.0067485,
-    "lng": 105.8503135
-  },
-  {
-    "address": "Phường Đống Mác, Quận Hai Bà Trưng",
-    "lat": 21.0110533,
-    "lng": 105.8606382
-  },
-  {
-    "address": "Phường Đồng Nhân, Quận Hai Bà Trưng",
-    "lat": 21.0116579,
-    "lng": 105.8558183
-  },
-  {
-    "address": "Phường Đồng Tâm, Quận Hai Bà Trưng",
-    "lat": 20.9967604,
-    "lng": 105.8432719
-  },
-  {
-    "address": "Phường Lê Đại Hành, Quận Hai Bà Trưng",
-    "lat": 21.0106552,
-    "lng": 105.8490846
-  },
-  {
-    "address": "Phường Minh Khai, Quận Hai Bà Trưng",
-    "lat": 20.9959104,
-    "lng": 105.8576533
-  },
-  {
-    "address": "Phường Ngô Thì Nhậm, Quận Hai Bà Trưng",
-    "lat": 21.0166103,
-    "lng": 105.8532494
-  },
-  {
-    "address": "Phường Phạm Đình Hổ, Quận Hai Bà Trưng",
-    "lat": 21.0161916,
-    "lng": 105.8576533
-  },
-  {
-    "address": "Phường Quỳnh Lôi, Quận Hai Bà Trưng",
-    "lat": 21.0003958,
-    "lng": 105.8561853
-  },
-  {
-    "address": "Phường Quỳnh Mai, Quận Hai Bà Trưng",
-    "lat": 20.9999773,
-    "lng": 105.8605893
-  },
-  {
-    "address": "Phường Thanh Lương, Quận Hai Bà Trưng",
-    "lat": 21.0068975,
-    "lng": 105.8715997
-  },
-  {
-    "address": "Phường Thanh Nhàn, Quận Hai Bà Trưng",
-    "lat": 21.0053964,
-    "lng": 105.8569193
-  },
-  {
-    "address": "Phường Trương Định, Quận Hai Bà Trưng",
-    "lat": 20.9965567,
-    "lng": 105.8468125
-  },
-  {
-    "address": "Phường Vĩnh Tuy, Quận Hai Bà Trưng",
-    "lat": 20.9984853,
-    "lng": 105.8686635
-  },
-  {
-    "address": "Phường Nguyễn Du, Quận Hai Bà Trưng",
-    "lat": 21.0187567,
-    "lng": 105.8459098
-  },
-  {
-    "address": "Phường Phố Huế, Quận Hai Bà Trưng",
-    "lat": 21.0115168,
-    "lng": 105.8533481
-  },
-  {
-    "address": "Phường Chương Dương Độ, Quận Hoàn Kiếm",
-    "lat": 21.0303845,
-    "lng": 105.8608981
-  },
-  {
-    "address": "Phường Cửa Đông, Quận Hoàn Kiếm",
-    "lat": 21.0329168,
-    "lng": 105.8455428
-  },
-  {
-    "address": "Phường Cửa Nam, Quận Hoàn Kiếm",
-    "lat": 21.0252277,
-    "lng": 105.8426071
-  },
-  {
-    "address": "Phường Đồng Xuân, Quận Hoàn Kiếm",
-    "lat": 21.0396362,
-    "lng": 105.8489144
-  },
-  {
-    "address": "Phường Hàng Bạc, Quận Hoàn Kiếm",
-    "lat": 21.0329432,
-    "lng": 105.8528824
-  },
-  {
-    "address": "Phường Hàng Bài, Quận Hoàn Kiếm",
-    "lat": 21.021096,
-    "lng": 105.8517814
-  },
-  {
-    "address": "Phường Hàng Bồ, Quận Hoàn Kiếm",
-    "lat": 21.0348806,
-    "lng": 105.8477447
-  },
-  {
-    "address": "Phường Hàng Bông, Quận Hoàn Kiếm",
-    "lat": 21.0299548,
-    "lng": 105.8464694
-  },
-  {
-    "address": "Phường Hàng Buồm, Quận Hoàn Kiếm",
-    "lat": 21.0355832,
-    "lng": 105.8517814
-  },
-  {
-    "address": "Phường Hàng Đào, Quận Hoàn Kiếm",
-    "lat": 21.0346712,
-    "lng": 105.8499465
-  },
-  {
-    "address": "Phường Hàng Gai, Quận Hoàn Kiếm",
-    "lat": 21.0319133,
-    "lng": 105.8484786
-  },
-  {
-    "address": "Phường Hàng Mã, Quận Hoàn Kiếm",
-    "lat": 21.0375904,
-    "lng": 105.8459098
-  },
-  {
-    "address": "Phường Hàng Trống, Quận Hoàn Kiếm",
-    "lat": 21.0284792,
-    "lng": 105.8503135
-  },
-  {
-    "address": "Phường Lý Thái Tổ, Quận Hoàn Kiếm",
-    "lat": 21.0309577,
-    "lng": 105.8547173
-  },
-  {
-    "address": "Phường Phan Chu Trinh, Quận Hoàn Kiếm",
-    "lat": 21.0186485,
-    "lng": 105.8553825
-  },
-  {
-    "address": "Phường Phúc Tân, Quận Hoàn Kiếm",
-    "lat": 21.0372674,
-    "lng": 105.8569193
-  },
-  {
-    "address": "Phường Trần Hưng Đạo, Quận Hoàn Kiếm",
-    "lat": 21.0227015,
-    "lng": 105.8469788
-  },
-  {
-    "address": "Phường Tràng Tiền, Quận Hoàn Kiếm",
-    "lat": 21.0251629,
-    "lng": 105.8547173
-  },
-  {
-    "address": "Phường Đại Kim, Quận Hoàng Mai",
-    "lat": 20.9739692,
-    "lng": 105.8216911
-  },
-  {
-    "address": "Phường Định Công, Quận Hoàng Mai",
-    "lat": 20.9894672,
-    "lng": 105.8324116
-  },
-  {
-    "address": "Phường Hoàng Liệt, Quận Hoàng Mai",
-    "lat": 20.9625316,
-    "lng": 105.8399127
-  },
-  {
-    "address": "Phường Hoàng Văn Thụ, Quận Hoàng Mai",
-    "lat": 20.9848364,
-    "lng": 105.8598553
-  },
-  {
-    "address": "Phường Lĩnh Nam, Quận Hoàng Mai",
-    "lat": 20.9770005,
-    "lng": 105.896559
-  },
-  {
-    "address": "Phường Mai Động, Quận Hoàng Mai",
-    "lat": 20.9908669,
-    "lng": 105.8649934
-  },
-  {
-    "address": "Phường Tân Mai, Quận Hoàng Mai",
-    "lat": 20.9835994,
-    "lng": 105.8503027
-  },
-  {
-    "address": "Phường Thanh Trì, Quận Hoàng Mai",
-    "lat": 20.994941,
-    "lng": 105.8906859
-  },
-  {
-    "address": "Phường Trần Phú, Quận Hoàng Mai",
-    "lat": 20.9723243,
-    "lng": 105.884813
-  },
-  {
-    "address": "Phường Tương Mai, Quận Hoàng Mai",
-    "lat": 20.9885702,
-    "lng": 105.8510475
-  },
-  {
-    "address": "Phường Giang Biên, Quận Long Biên",
-    "lat": 21.0674567,
-    "lng": 105.9200531
-  },
-  {
-    "address": "Phường Phúc Đồng, Quận Long Biên",
-    "lat": 21.0420823,
-    "lng": 105.9044741
-  },
-  {
-    "address": "Phường Giáp Bát, Quận Hoàng Mai",
-    "lat": 20.98834,
-    "lng": 105.842529
-  },
-  {
-    "address": "Phường Vĩnh Hưng, Quận Hoàng Mai",
-    "lat": 20.988908,
-    "lng": 105.8777537
-  },
-  {
-    "address": "Phường Bồ Đề, Quận Long Biên",
-    "lat": 21.0382069,
-    "lng": 105.8711081
-  },
-  {
-    "address": "Phường Thịnh Liệt, Quận Hoàng Mai",
-    "lat": 20.9751142,
-    "lng": 105.8554513
-  },
-  {
-    "address": "Phường Yên Sở, Quận Hoàng Mai",
-    "lat": 20.9618527,
-    "lng": 105.8730678
-  },
-  {
-    "address": "Phường Cự Khối, Quận Long Biên",
-    "lat": 21.0059693,
-    "lng": 105.896559
-  },
-  {
-    "address": "Phường Đức Giang, Quận Long Biên",
-    "lat": 21.0701691,
-    "lng": 105.9068373
-  },
-  {
-    "address": "Phường Long Biên, Quận Long Biên",
-    "lat": 21.0186765,
-    "lng": 105.884813
-  },
-  {
-    "address": "Phường Gia Thụy, Quận Long Biên",
-    "lat": 21.048956,
-    "lng": 105.8862812
-  },
-  {
-    "address": "Phường Ngọc Thụy, Quận Long Biên",
-    "lat": 21.0611536,
-    "lng": 105.8630883
-  },
-  {
-    "address": "Phường Sài Đồng, Quận Long Biên",
-    "lat": 21.0332116,
-    "lng": 105.9095352
-  },
-  {
-    "address": "Phường Phúc Lợi, Quận Long Biên",
-    "lat": 21.0437208,
-    "lng": 105.9259271
-  },
-  {
-    "address": "Phường Ngọc Lâm, Quận Long Biên",
-    "lat": 21.0448412,
-    "lng": 105.8686635
-  },
-  {
-    "address": "Phường Thạch Bàn, Quận Long Biên",
-    "lat": 21.0216695,
-    "lng": 105.9141793
-  },
-  {
-    "address": "Phường Thượng Thanh, Quận Long Biên",
-    "lat": 21.0655013,
-    "lng": 105.8883137
-  },
-  {
-    "address": "Phường Việt Hưng, Quận Long Biên",
-    "lat": 21.0575538,
-    "lng": 105.9024322
-  },
-  {
-    "address": "Phường Đại Mỗ, Quận Nam Từ Liêm",
-    "lat": 20.986152,
-    "lng": 105.7678891
-  },
-  {
-    "address": "Phường Mễ Trì, Quận Nam Từ Liêm",
-    "lat": 21.0055267,
-    "lng": 105.7791327
-  },
-  {
-    "address": "Phường Mỹ Đình 1, Quận Nam Từ Liêm",
-    "lat": 21.0221606,
-    "lng": 105.771796
-  },
-  {
-    "address": "Phường Mỹ Đình 2, Quận Nam Từ Liêm",
-    "lat": 21.0279571,
-    "lng": 105.771796
-  },
-  {
-    "address": "Phường Phú Đô, Quận Nam Từ Liêm",
-    "lat": 21.0124328,
-    "lng": 105.7673942
-  },
-  {
-    "address": "Phường Phương Canh, Quận Nam Từ Liêm",
-    "lat": 21.03427044400007,
-    "lng": 105.74409544100007
-  },
-  {
-    "address": "Phường Tây Mỗ, Quận Nam Từ Liêm",
-    "lat": 21.0088528,
-    "lng": 105.7439194
-  },
-  {
-    "address": "Thị trấn Cầu Diễn, Phường Cầu Diễn, Quận Nam Từ Liêm",
-    "lat": 21.0403832,
-    "lng": 105.7629924
-  },
-  {
-    "address": "Phường Trung Văn, Quận Nam Từ Liêm",
-    "lat": 20.9934004,
-    "lng": 105.7778148
-  },
-  {
-    "address": "Phường Xuân Phương, Quận Nam Từ Liêm",
-    "lat": 21.0378383,
-    "lng": 105.7439194
-  },
-  {
-    "address": "Phường Bưởi, Quận Tây Hồ",
-    "lat": 21.0530438,
-    "lng": 105.8128851
-  },
-  {
-    "address": "Phường Nhật Tân, Quận Tây Hồ",
-    "lat": 21.0764202,
-    "lng": 105.8260943
-  },
-  {
-    "address": "Phường Phú Thượng, Quận Tây Hồ",
-    "lat": 21.0838905,
-    "lng": 105.8084823
-  },
-  {
-    "address": "Phường Quảng An, Quận Tây Hồ",
-    "lat": 21.063591,
-    "lng": 105.8260436
-  },
-  {
-    "address": "Phường Thụy Khuê, Quận Tây Hồ",
-    "lat": 21.04272,
-    "lng": 105.8241554
-  },
-  {
-    "address": "Phường Tứ Liên, Quận Tây Hồ",
-    "lat": 21.0642931,
-    "lng": 105.8340365
-  },
-  {
-    "address": "Phường Xuân La, Quận Tây Hồ",
-    "lat": 21.0596756,
-    "lng": 105.8040796
-  },
-  {
-    "address": "Phường Yên Phụ, Quận Tây Hồ",
-    "lat": 21.0534309,
-    "lng": 105.8393044
-  },
-  {
-    "address": "Phường Nhân Chính, Quận Thanh Xuân",
-    "lat": 21.0046148,
-    "lng": 105.8040796
-  },
-  {
-    "address": "Phường Phương Liệt, Quận Thanh Xuân",
-    "lat": 20.99388,
-    "lng": 105.8406576
-  },
-  {
-    "address": "Phường Thanh Xuân Bắc, Quận Thanh Xuân",
-    "lat": 20.9922555,
-    "lng": 105.8007815
-  },
-  {
-    "address": "Phường Thanh Xuân Nam, Quận Thanh Xuân",
-    "lat": 20.9864363,
-    "lng": 105.8023856
-  },
-  {
-    "address": "Phường Thanh Xuân Trung, Quận Thanh Xuân",
-    "lat": 21.0000175,
-    "lng": 105.8075304
-  },
-  {
-    "address": "Phường Thượng Đình, Quận Thanh Xuân",
-    "lat": 21.0006046,
-    "lng": 105.8158204
-  },
-  {
-    "address": "Phường Khương Mai, Quận Thanh Xuân",
-    "lat": 20.9963153,
-    "lng": 105.8304975
-  },
-  {
-    "address": "Phường Hạ Đình, Quận Thanh Xuân",
-    "lat": 20.9866719,
-    "lng": 105.8099499
-  },
-  {
-    "address": "Phường Khương Đình, Quận Thanh Xuân",
-    "lat": 20.9887356,
-    "lng": 105.8187558
-  },
-  {
-    "address": "Phường Khương Trung, Quận Thanh Xuân",
-    "lat": 20.9971504,
-    "lng": 105.8216911
-  },
-  {
-    "address": "Phường Kim Giang, Quận Thanh Xuân",
-    "lat": 20.9841512,
-    "lng": 105.813619
-  },
-  {
     "address": "Dự án Gamuda Lakes, Phường Yên Sở, Quận Hoàng Mai",
     "lat": 20.9549372,
     "lng": 105.8591912
@@ -21692,139 +21827,5 @@
     "address": "Xã Xuân Sơn, Thị xã Sơn Tây",
     "lat": 21.1333747,
     "lng": 105.4360963
-  },
-  {
-    "address": "Quận Ba Đình",
-    "lat": 21.03398199000003,
-    "lng": 105.81452464100005
-  },
-  {
-    "address": "Quận Ba Vì",
-    "lat": 21.19838927400008,
-    "lng": 105.42421153800007
-  },
-  { "address": "Quận Bắc Từ Liêm", "lat": 21.0730201, "lng": 105.7703287 },
-  {
-    "address": "Quận Cầu Giấy",
-    "lat": 21.031028545000026,
-    "lng": 105.80112181800007
-  },
-  {
-    "address": "Quận Chương Mỹ",
-    "lat": 20.92423504800007,
-    "lng": 105.70184788200004
-  },
-  {
-    "address": "Quận Đan Phượng",
-    "lat": 21.08296888900003,
-    "lng": 105.67236864800009
-  },
-  {
-    "address": "Quận Đông Anh",
-    "lat": 21.13981633800006,
-    "lng": 105.84928961600008
-  },
-  {
-    "address": "Quận Đống Đa",
-    "lat": 21.019302192000055,
-    "lng": 105.83091482900005
-  },
-  {
-    "address": "Quận Gia Lâm",
-    "lat": 21.019601046000048,
-    "lng": 105.93685682900008
-  },
-  {
-    "address": "Quận Hà Đông",
-    "lat": 20.971334803000047,
-    "lng": 105.77875462800006
-  },
-  {
-    "address": "Quận Hai Bà Trưng",
-    "lat": 21.010176768000065,
-    "lng": 105.84972309300008
-  },
-  { "address": "Quận Hoài Đức", "lat": 21.0243168, "lng": 105.6988892 },
-  {
-    "address": "Quận Hoàn Kiếm",
-    "lat": 21.028530775000036,
-    "lng": 105.85077074900005
-  },
-  {
-    "address": "Quận Hoàng Mai",
-    "lat": 20.97535979500003,
-    "lng": 105.84435436900009
-  },
-  {
-    "address": "Quận Long Biên",
-    "lat": 21.062644799000054,
-    "lng": 105.90181166900004
-  },
-  {
-    "address": "Quận Mê Linh",
-    "lat": 21.179239988000063,
-    "lng": 105.72866672700007
-  },
-  {
-    "address": "Quận Mỹ Đức",
-    "lat": 20.686470067000073,
-    "lng": 105.74482722500005
-  },
-  { "address": "Quận Nam Từ Liêm", "lat": 21.0034608, "lng": 105.7703287 },
-  {
-    "address": "Quận Phú Xuyên",
-    "lat": 20.74526462500006,
-    "lng": 105.91370721600003
-  },
-  {
-    "address": "Quận Phúc Thọ",
-    "lat": 21.104112272000066,
-    "lng": 105.54573475300003
-  },
-  {
-    "address": "Quận Quốc Oai",
-    "lat": 20.99028396700004,
-    "lng": 105.64072192400005
-  },
-  {
-    "address": "Quận Sóc Sơn",
-    "lat": 21.258095054000023,
-    "lng": 105.84884806500008
-  },
-  {
-    "address": "Quận xã Sơn Tây",
-    "lat": 21.141570947000048,
-    "lng": 105.50719483600005
-  },
-  {
-    "address": "Quận Thanh Trì",
-    "lat": 20.9712048,
-    "lng": 105.8010533
-  },
-  {
-    "address": "Quận Thanh Xuân",
-    "lat": 20.99477765200004,
-    "lng": 105.79978623600005
-  },
-  { "address": "Quận Thường Tín", "lat": 20.8715715, "lng": 105.8627913 },
-  {
-    "address": "Quận Tây Hồ",
-    "lat": 21.068738319000033,
-    "lng": 105.81121333000004
-  },
-  {
-    "address": "Quận Thanh Oai",
-    "lat": 20.852510752000057,
-    "lng": 105.76922735100004
-  },
-  {
-    "address": "Quận Thạch Thất",
-    "lat": 21.056068625000023,
-    "lng": 105.57803238500009
-  },
-  {
-    "address": "Quận Ứng Hòa",
-    "lat": 20.735608717000048,
-    "lng": 105.77179996000007
   }
 ]
